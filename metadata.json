@@ -1,0 +1,6 @@
+{
+  "name": "Buntara Bhavana Kombettu Puttur",
+  "description": "Premium event hall and auditorium booking portal for Buntara Bhavana Kombettu in Puttur, Dakshina Kannada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
